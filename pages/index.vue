@@ -45,6 +45,15 @@
           <BaseTable ref="baseTable" />
         </div>
       </div>
+      <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-X554NDB7V6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-X554NDB7V6');
+</script>
     </main>
   </div>
 </template>
